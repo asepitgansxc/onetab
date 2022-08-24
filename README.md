@@ -16,7 +16,6 @@ $ pip install requests
 
 $ pip install cython
 
-$ rm -rf asbf
 
 ```
 
